@@ -4,5 +4,5 @@
   "version": "1.0.0",
   "author": "melvin",
   "tags": ["glm", "prompting", "cerebras", "ollama", "coding", "llm"],
-  "repository": "https://github.com/melvin/skills"
+  "repository": "https://github.com/melvinmt/skills"
 }

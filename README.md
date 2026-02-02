@@ -10,13 +10,28 @@ A collection of Claude skills for specialized workflows.
 
 ## Installation
 
-Install via Claude Code:
+### One-command install
+
+```bash
+# npm
+npx skills add melvinmt/skills
+
+# bun
+bunx skills add melvinmt/skills
+
+# pnpm
+pnpm dlx skills add melvinmt/skills
+```
+
+### Claude Code plugin
 
 ```
 /plugin install <skill-name>
 ```
 
-Or manually copy the skill folder to your Claude skills directory.
+### Manual
+
+Copy the skill folder to your Claude skills directory.
 
 ## Adding New Skills
 
