@@ -2,6 +2,15 @@
 
 Run GLM 4.7 on Cerebras for maximum speed (1500+ tokens/sec, 20x faster than Sonnet 4.5).
 
+## Contents
+
+- [Quick Start](#quick-start)
+- [Model Specs](#model-specs)
+- [API Parameters](#api-parameters)
+- [Code Example (Cerebras SDK)](#code-example-cerebras-sdk)
+- [OpenAI SDK Compatibility](#openai-sdk-compatibility)
+- [When to Use Cerebras](#when-to-use-cerebras)
+
 ## Quick Start
 
 1. Get API key: https://cloud.cerebras.ai

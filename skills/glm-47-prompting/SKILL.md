@@ -1,6 +1,6 @@
 ---
 name: glm-47-prompting
-description: Best practices for prompting GLM 4.7 effectively. Use when working with GLM 4.7, Cerebras API, Ollama, or optimizing prompts for Z.AI's open-source coding model. Covers instruction placement, reasoning control, multi-agent patterns, and deployment options (cloud and local).
+description: Best practices for prompting GLM 4.7 effectively. Use when user asks about GLM prompting, GLM 4.7 best practices, Cerebras API setup, Ollama GLM setup, optimizing GLM prompts, or working with Z.AI's open-source coding model. Covers instruction placement, reasoning control, multi-agent patterns, and deployment (cloud/local).
 ---
 
 # GLM 4.7 Prompting Best Practices
@@ -9,8 +9,8 @@ GLM 4.7 is Z.AI's strongest open-source coding model (~358B params, ~32B active 
 
 ## Deployment Options
 
-- **Cerebras cloud**: 1500+ tokens/sec, 131K context. See [references/cerebras.md](references/cerebras.md)
-- **Ollama local**: Privacy-first, ~23GB VRAM. See [references/ollama.md](references/ollama.md)
+- **Cerebras cloud**: For API parameters, SDK examples, and cloud setup, see [references/cerebras.md](references/cerebras.md)
+- **Ollama local**: For local installation, ollama launch, and VRAM requirements, see [references/ollama.md](references/ollama.md)
 
 ---
 
@@ -103,7 +103,7 @@ For complex problem-solving, reasoning becomes valuable.
 - Prompt: "Think step by step before answering"
 - Use chain-of-thought examples showing the reasoning process
 
-### Rule 10: Use clear_thinking to control memory
+### Rule 8: Use clear_thinking to control memory
 
 Controls internal thinking state across calls:
 
@@ -116,7 +116,7 @@ Controls internal thinking state across calls:
 
 ## Multi-Agent Patterns
 
-### Rule 8: Use critic agents
+### Rule 9: Use critic agents
 
 Employ specialized sub-agents to review outputs before advancing. Decouple generation from validation.
 
@@ -131,7 +131,7 @@ Employ specialized sub-agents to review outputs before advancing. Decouple gener
 
 Each critic gets a focused persona (leverages Rule 4).
 
-### Rule 9: Pair with frontier models
+### Rule 10: Pair with frontier models
 
 GLM 4.7 may fall short on the toughest 10% of use cases. Three patterns:
 
