@@ -1,0 +1,8 @@
+{
+  "name": "glm-47-prompting",
+  "description": "Best practices for prompting GLM 4.7 effectively. Covers instruction placement, reasoning control, multi-agent patterns, and deployment options.",
+  "version": "1.0.0",
+  "author": "melvin",
+  "tags": ["glm", "prompting", "cerebras", "ollama", "coding", "llm"],
+  "repository": "https://github.com/melvin/skills"
+}
