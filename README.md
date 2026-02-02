@@ -1,6 +1,6 @@
 # Skills
 
-A collection of Claude skills for specialized workflows.
+A collection of Claude skills for specialized workflows, created by [Melvin Tercan](https://melvintercan.com/about).
 
 ## Available Skills
 
@@ -47,15 +47,6 @@ pnpm dlx skills add melvinmt/skills
 Copy the skill folder to your Claude skills directory.
 
 </details>
-
-## Adding New Skills
-
-Each skill is a self-contained folder under `skills/`. To add a new skill:
-
-1. Create a new folder: `skills/<skill-name>/`
-2. Add a `SKILL.md` with YAML frontmatter (name, description)
-3. Optionally add `references/`, `scripts/`, or `assets/` folders
-4. Add `marketplace.json` for one-command installation
 
 ## License
 
