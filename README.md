@@ -7,7 +7,9 @@ A collection of Claude skills for specialized workflows, created by [Melvin Terc
 | Skill | Description |
 |-------|-------------|
 | [glm-47-prompting](skills/glm-47-prompting/) | Best practices for prompting GLM 4.7 |
+| [ink-react-tui](skills/ink-react-tui/) | Build terminal UIs with React using Ink |
 | [machine-accessible-websites](skills/machine-accessible-websites/) | Make websites accessible to humans and AI agents |
+| [python-security-hardening](skills/python-security-hardening/) | Harden Python projects with security-first development |
 | [rn-ios-extensions](skills/rn-ios-extensions/) | Build native iOS extensions from React Native |
 
 ## Installation
