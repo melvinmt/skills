@@ -7,6 +7,7 @@ A collection of Claude skills for specialized workflows, created by [Melvin Terc
 | Skill | Description |
 |-------|-------------|
 | [glm-47-prompting](skills/glm-47-prompting/) | Best practices for prompting GLM 4.7 |
+| [rn-ios-extensions](skills/rn-ios-extensions/) | Build native iOS extensions from React Native |
 
 ## Installation
 
