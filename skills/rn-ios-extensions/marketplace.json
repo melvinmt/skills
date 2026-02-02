@@ -1,0 +1,8 @@
+{
+  "name": "rn-ios-extensions",
+  "description": "Build native iOS extensions from React Native - Apple Watch, Dynamic Island, widgets, and share intents.",
+  "version": "1.0.0",
+  "author": "melvin",
+  "tags": ["react-native", "expo", "ios", "apple-watch", "dynamic-island", "widgets", "live-activities", "share-intent"],
+  "repository": "https://github.com/melvinmt/skills"
+}
