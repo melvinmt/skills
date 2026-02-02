@@ -15,20 +15,25 @@ npx skills add melvinmt/skills
 ```
 
 <details>
-<summary>Other package managers</summary>
+<summary>bun</summary>
 
 ```bash
-# bun
 bunx skills add melvinmt/skills
+```
 
-# pnpm
+</details>
+
+<details>
+<summary>pnpm</summary>
+
+```bash
 pnpm dlx skills add melvinmt/skills
 ```
 
 </details>
 
 <details>
-<summary>Claude Code plugin</summary>
+<summary>Claude Code</summary>
 
 ```
 /plugin install <skill-name>
