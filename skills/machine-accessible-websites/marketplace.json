@@ -1,0 +1,8 @@
+{
+  "name": "machine-accessible-websites",
+  "description": "Make websites accessible to both humans and AI agents. Covers floating HUMAN/MACHINE toggle, llms.txt specification, content negotiation, .md alternate pages, and robots.txt exclusions.",
+  "version": "1.0.0",
+  "author": "melvin",
+  "tags": ["llms-txt", "ai-agents", "web", "markdown", "content-negotiation", "accessibility"],
+  "repository": "https://github.com/melvinmt/skills"
+}
