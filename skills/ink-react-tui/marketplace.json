@@ -1,0 +1,8 @@
+{
+  "name": "ink-react-tui",
+  "description": "Build terminal user interfaces with React using Ink. Covers components, hooks, layout patterns, keyboard input, and third-party extensions.",
+  "version": "1.0.0",
+  "author": "melvin",
+  "tags": ["ink", "react", "tui", "cli", "terminal", "flexbox", "nodejs"],
+  "repository": "https://github.com/melvinmt/skills"
+}
