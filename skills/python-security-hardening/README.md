@@ -1,4 +1,4 @@
-# Python Security Hardening
+# Python Security Hardening Skill
 
 Harden Python projects with security-first development practices. This skill enforces 100% test coverage, static analysis, secret scanning, mutation testing, pre-commit hooks, and SOC 2 compliance.
 
