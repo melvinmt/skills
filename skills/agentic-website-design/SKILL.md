@@ -97,6 +97,8 @@ When working on a specific aspect of the site, invoke the relevant skill explici
 | copywriting | Headlines, CTAs, feature descriptions, brand voice |
 | seo | Meta tags, structured data, performance, Core Web Vitals |
 | accessibility | ARIA labels, keyboard navigation, color contrast |
+| geo-optimization | CDN configuration, edge deployment, regional performance tuning |
+| [machine-accessible-websites](https://github.com/melvinmt/skills/tree/main/skills/machine-accessible-websites) | llms.txt, HUMAN/MACHINE toggle, content negotiation for AI agents |
 
 ### Composing Skills
 
