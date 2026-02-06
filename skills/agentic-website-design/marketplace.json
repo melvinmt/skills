@@ -1,0 +1,8 @@
+{
+  "name": "agentic-website-design",
+  "description": "Design and build production-quality websites using AI coding agents with static site generators, browser feedback loops, skill-enhanced prompting, and iterative polish.",
+  "version": "1.0.0",
+  "author": "melvin",
+  "tags": ["web-design", "astro", "static-site", "agentic", "frontend", "animations", "landing-page"],
+  "repository": "https://github.com/melvinmt/skills"
+}
